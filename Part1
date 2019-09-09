@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a;
+  cout << "55 Degrees Celsius\n";
+  a = 55 * 2.2 + 32;
+  cout << a;
+  cout << "F";
+ 
+  return 0;
+}
